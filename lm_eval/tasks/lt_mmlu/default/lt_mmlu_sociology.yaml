@@ -1,7 +1,7 @@
-"dataset_name": "sociology"
-"description": "The following are multiple choice questions (with answers) about sociology.\n\
+dataset_name: sociology
+description: "The following are multiple choice questions (with answers) about sociology.\n\
   \n"
-"include": "_lt_default_template.yaml"
-"tag": "mmlu_lt_mmlu_social_sciences"
-"task": "mmlu_lt_mmlu_sociology"
-"task_alias": "sociology"
+include: _lt_default_template.yaml
+tag: lt_mmlu_social_sciences
+task: lt_mmlu_sociology
+task_alias: sociology

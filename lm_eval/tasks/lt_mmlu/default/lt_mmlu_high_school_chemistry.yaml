@@ -1,7 +1,7 @@
-"dataset_name": "high_school_chemistry"
-"description": "The following are multiple choice questions (with answers) about high\
+dataset_name: high_school_chemistry
+description: "The following are multiple choice questions (with answers) about high\
   \ school chemistry.\n\n"
-"include": "_lt_default_template.yaml"
-"tag": "mmlu_lt_mmlu_stem"
-"task": "mmlu_lt_mmlu_high_school_chemistry"
-"task_alias": "high school chemistry"
+include: _lt_default_template.yaml
+tag: lt_mmlu_stem
+task: lt_mmlu_high_school_chemistry
+task_alias: high school chemistry

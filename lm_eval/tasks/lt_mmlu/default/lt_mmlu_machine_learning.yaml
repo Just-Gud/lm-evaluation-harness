@@ -1,7 +1,7 @@
-"dataset_name": "machine_learning"
-"description": "The following are multiple choice questions (with answers) about machine\
+dataset_name: machine_learning
+description: "The following are multiple choice questions (with answers) about machine\
   \ learning.\n\n"
-"include": "_lt_default_template.yaml"
-"tag": "mmlu_lt_mmlu_stem"
-"task": "mmlu_lt_mmlu_machine_learning"
-"task_alias": "machine learning"
+include: _lt_default_template.yaml
+tag: lt_mmlu_stem
+task: lt_mmlu_machine_learning
+task_alias: machine learning

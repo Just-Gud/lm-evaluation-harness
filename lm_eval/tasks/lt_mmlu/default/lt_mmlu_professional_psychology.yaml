@@ -1,7 +1,7 @@
-"dataset_name": "professional_psychology"
-"description": "The following are multiple choice questions (with answers) about professional\
+dataset_name: professional_psychology
+description: "The following are multiple choice questions (with answers) about professional\
   \ psychology.\n\n"
-"include": "_lt_default_template.yaml"
-"tag": "mmlu_lt_mmlu_social_sciences"
-"task": "mmlu_lt_mmlu_professional_psychology"
-"task_alias": "professional psychology"
+include: _lt_default_template.yaml
+tag: lt_mmlu_social_sciences
+task: lt_mmlu_professional_psychology
+task_alias: professional psychology

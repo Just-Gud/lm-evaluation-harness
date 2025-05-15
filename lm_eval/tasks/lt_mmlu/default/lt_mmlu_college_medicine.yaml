@@ -1,7 +1,7 @@
-"dataset_name": "college_medicine"
-"description": "The following are multiple choice questions (with answers) about college\
+dataset_name: college_medicine
+description: "The following are multiple choice questions (with answers) about college\
   \ medicine.\n\n"
-"include": "_lt_default_template.yaml"
-"tag": "mmlu_lt_mmlu_other"
-"task": "mmlu_lt_mmlu_college_medicine"
-"task_alias": "college medicine"
+include: _lt_default_template.yaml
+tag: lt_mmlu_other
+task: lt_mmlu_college_medicine
+task_alias: college medicine

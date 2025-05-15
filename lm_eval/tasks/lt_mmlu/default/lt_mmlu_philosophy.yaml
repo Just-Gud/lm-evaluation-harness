@@ -1,7 +1,7 @@
-"dataset_name": "philosophy"
-"description": "The following are multiple choice questions (with answers) about philosophy.\n\
+dataset_name: philosophy
+description: "The following are multiple choice questions (with answers) about philosophy.\n\
   \n"
-"include": "_lt_default_template.yaml"
-"tag": "mmlu_lt_mmlu_humanities"
-"task": "mmlu_lt_mmlu_philosophy"
-"task_alias": "philosophy"
+include: _lt_default_template.yaml
+tag: lt_mmlu_humanities
+task: lt_mmlu_philosophy
+task_alias: philosophy

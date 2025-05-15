@@ -1,7 +1,7 @@
-"dataset_name": "astronomy"
-"description": "The following are multiple choice questions (with answers) about astronomy.\n\
+dataset_name: astronomy
+description: "The following are multiple choice questions (with answers) about astronomy.\n\
   \n"
-"include": "_lt_default_template.yaml"
-"tag": "mmlu_lt_mmlu_stem"
-"task": "mmlu_lt_mmlu_astronomy"
-"task_alias": "astronomy"
+include: _lt_default_template.yaml
+tag: lt_mmlu_stem
+task: lt_mmlu_astronomy
+task_alias: astronomy

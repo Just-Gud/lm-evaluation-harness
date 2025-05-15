@@ -1,7 +1,7 @@
-"dataset_name": "professional_accounting"
-"description": "The following are multiple choice questions (with answers) about professional\
+dataset_name: professional_accounting
+description: "The following are multiple choice questions (with answers) about professional\
   \ accounting.\n\n"
-"include": "_lt_default_template.yaml"
-"tag": "mmlu_lt_mmlu_other"
-"task": "mmlu_lt_mmlu_professional_accounting"
-"task_alias": "professional accounting"
+include: _lt_default_template.yaml
+tag: lt_mmlu_other
+task: lt_mmlu_professional_accounting
+task_alias: professional accounting
