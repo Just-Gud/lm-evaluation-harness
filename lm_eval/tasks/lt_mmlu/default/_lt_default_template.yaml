@@ -1,5 +1,8 @@
 dataset_path: neurotechnology/lt_mmlu
 test_split: test
+
+training_split: dev     # ← only test validation and dev are available
+
 fewshot_split: dev
 fewshot_config:
   sampler: first_n
